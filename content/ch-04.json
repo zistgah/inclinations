@@ -1,0 +1,25 @@
+{
+  "id": "ch-04",
+  "title": "Inclination Field",
+  "subtitle": "From individual dispositions to a field over transitions",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A collection of edge inclinations forms a field over configuration space."
+    },
+    {
+      "type": "figure",
+      "id": "inclination-field",
+      "dimension": "2d",
+      "src": "assets/figures/inclination-field.png",
+      "alt": "Inclination Field",
+      "caption": "Inclination Field — From individual dispositions to a field over transitions",
+      "explanation": "The field describes directional structure across many possible transitions, allowing local tendencies to produce global trajectories.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

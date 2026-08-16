@@ -1,0 +1,25 @@
+{
+  "id": "ch-40",
+  "title": "CEMb Quantum Neuromorphic BCI",
+  "subtitle": "Semantic neural decoding and cognitive convergence",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Their bidirectional quantum-neuromorphic interface is proposed as a physical convergence mechanism for shared semantic and cognitive states."
+    },
+    {
+      "type": "figure",
+      "id": "cemb-quantum-neuromorphic-bci",
+      "dimension": "2d",
+      "src": "assets/figures/cemb-quantum-neuromorphic-bci.png",
+      "alt": "CEMb Quantum Neuromorphic BCI",
+      "caption": "CEMb Quantum Neuromorphic BCI — Semantic neural decoding and cognitive convergence",
+      "explanation": "The first panel to examine is the **CEMb ↔ CEMs convergence architecture**, particularly the bidirectional path linking neural decoding, semantic representation, Intent, and synthetiform realization. It is load-bearing because it defines what the quantum-neuromorphic BCI is actually bridging: not merely a brain signal stream and an external machine, but two realization regimes sharing semantic structure. The proposed convergence depends on preserving that bidirectionality; the neural-decoding direction alone would reduce CEMb to conventional BCI, while the reciprocal direction establishes the proposed semantic and cognitive coupling.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

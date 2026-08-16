@@ -1,0 +1,25 @@
+{
+  "id": "ch-14",
+  "title": "CEMs",
+  "subtitle": "Synthetiform realization of cognitive transition fields",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "CEMs provides a computational substrate for realizing PEDLER-like cognitive dynamics."
+    },
+    {
+      "type": "figure",
+      "id": "cems",
+      "dimension": "2d",
+      "src": "assets/figures/cems.png",
+      "alt": "CEMs",
+      "caption": "CEMs — Synthetiform realization of cognitive transition fields",
+      "explanation": "The architecture connects semantic state, inclination, selection, execution and memory to increasingly specialized computational substrates.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

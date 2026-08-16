@@ -1,0 +1,25 @@
+{
+  "id": "ch-38",
+  "title": "LVF",
+  "subtitle": "Linguistic Vector Fields",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Language can be represented as a field of directional relationships rather than merely a sequence of symbols."
+    },
+    {
+      "type": "figure",
+      "id": "lvf",
+      "dimension": "2d",
+      "src": "assets/figures/lvf.png",
+      "alt": "LVF",
+      "caption": "LVF — Linguistic Vector Fields",
+      "explanation": "LVF provides the linguistic derivative of the transition ontology and supplies a bridge between interpretation, language structure and computational representation.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-15",
+  "title": "CEMs Hardware",
+  "subtitle": "From conventional acceleration to neuromorphic and quantum realization",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "CEMs can be progressively realized across heterogeneous hardware."
+    },
+    {
+      "type": "figure",
+      "id": "cems-hardware",
+      "dimension": "2d",
+      "src": "assets/figures/cems-hardware.png",
+      "alt": "CEMs Hardware",
+      "caption": "CEMs Hardware — From conventional acceleration to neuromorphic and quantum realization",
+      "explanation": "Conventional matrix acceleration is one engineering layer; neuromorphic and quantum-neuromorphic implementations provide alternative substrates for the same higher-level cognitive field.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

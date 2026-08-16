@@ -1,0 +1,25 @@
+{
+  "id": "ch-07",
+  "title": "PEDLER Field: Status and Research Programme",
+  "subtitle": "From inclinations to general transition calculus",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PEDLER is being extended as a general transition calculus across multiple domains."
+    },
+    {
+      "type": "figure",
+      "id": "pedler-field-status-and-research-programme",
+      "dimension": "2d",
+      "src": "assets/figures/pedler-field-status-and-research-programme.png",
+      "alt": "PEDLER Field: Status and Research Programme",
+      "caption": "PEDLER Field: Status and Research Programme — From inclinations to general transition calculus",
+      "explanation": "The architecture spans configurations, transitions, directional dispositions, observations and executable transformations, while identifying remaining mathematical, physical and implementation corpora for recovery.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

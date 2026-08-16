@@ -1,0 +1,25 @@
+{
+  "id": "ch-03",
+  "title": "Inclination",
+  "subtitle": "The directional primitive of transition",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "An inclination gives a transition its local directional tendency."
+    },
+    {
+      "type": "figure",
+      "id": "inclination",
+      "dimension": "2d",
+      "src": "assets/figures/inclination.png",
+      "alt": "Inclination",
+      "caption": "Inclination — The directional primitive of transition",
+      "explanation": "Inclination is the PEDLER analogue of a gradient: it is attached to an edge between configurations and determines how a system is disposed to move.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-18",
+  "title": "CEMb Neural Decoder",
+  "subtitle": "Recovering the underlying field from neural observations",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "CEMb decodes neural activity into underlying transition and semantic structure."
+    },
+    {
+      "type": "figure",
+      "id": "cemb-neural-decoder",
+      "dimension": "2d",
+      "src": "assets/figures/cemb-neural-decoder.png",
+      "alt": "CEMb Neural Decoder",
+      "caption": "CEMb Neural Decoder — Recovering the underlying field from neural observations",
+      "explanation": "EEG, ECoG and intracortical observations are treated as different observation operators over the same underlying bioform inclination field.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

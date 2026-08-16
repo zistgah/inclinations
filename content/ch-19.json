@@ -1,0 +1,25 @@
+{
+  "id": "ch-19",
+  "title": "CEMb Decoding Pipeline",
+  "subtitle": "Neural events to semantic cognitive state",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Neural observations are transformed into increasingly abstract representations of cognitive state."
+    },
+    {
+      "type": "figure",
+      "id": "cemb-decoding-pipeline",
+      "dimension": "2d",
+      "src": "assets/figures/cemb-decoding-pipeline.png",
+      "alt": "CEMb Decoding Pipeline",
+      "caption": "CEMb Decoding Pipeline — Neural events to semantic cognitive state",
+      "explanation": "The pipeline proceeds through event/state representation, inclination inference, state spawning, ensemble behaviour and semantic interpretation.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

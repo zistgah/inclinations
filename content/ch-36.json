@@ -1,0 +1,25 @@
+{
+  "id": "ch-36",
+  "title": "CEM Symmetry",
+  "subtitle": "Bioform and synthetiform realization are parallel",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "CEMb and CEMs are not stages in a serial chain."
+    },
+    {
+      "type": "figure",
+      "id": "cem-symmetry",
+      "dimension": "2d",
+      "src": "assets/figures/cem-symmetry.png",
+      "alt": "CEM Symmetry",
+      "caption": "CEM Symmetry — Bioform and synthetiform realization are parallel",
+      "explanation": "They are symmetric realization families sharing semantic intent and verification while differing in physical substrate and realization mechanisms.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

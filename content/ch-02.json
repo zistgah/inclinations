@@ -1,0 +1,25 @@
+{
+  "id": "ch-02",
+  "title": "The Walk",
+  "subtitle": "Realised trajectories through configuration space",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The Walk is the realised trajectory produced by successive inclinations."
+    },
+    {
+      "type": "figure",
+      "id": "the-walk",
+      "dimension": "2d",
+      "src": "assets/figures/the-walk.png",
+      "alt": "The Walk",
+      "caption": "The Walk — Realised trajectories through configuration space",
+      "explanation": "PEDLER separates the potential transition structure from the trajectory actually executed, making execution an explicit part of the ontology.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

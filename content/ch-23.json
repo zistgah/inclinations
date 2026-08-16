@@ -1,0 +1,25 @@
+{
+  "id": "ch-23",
+  "title": "Chemistry as a PEDLER Field",
+  "subtitle": "Chemical transitions as signed inclinations",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Chemical systems can be represented as configuration spaces with accessible transitions and signed inclinations."
+    },
+    {
+      "type": "figure",
+      "id": "chemistry-as-a-pedler-field",
+      "dimension": "2d",
+      "src": "assets/figures/chemistry-as-a-pedler-field.png",
+      "alt": "Chemistry as a PEDLER Field",
+      "caption": "Chemistry as a PEDLER Field — Chemical transitions as signed inclinations",
+      "explanation": "The chemical Walk becomes the realised reaction pathway, while catalysts modify the accessible field and therefore alter the trajectory.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-01",
+  "title": "PEDLER",
+  "subtitle": "The foundational transition calculus",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Reality can be represented as configurations connected by executable transitions."
+    },
+    {
+      "type": "figure",
+      "id": "pedler",
+      "dimension": "2d",
+      "src": "assets/figures/pedler.png",
+      "alt": "PEDLER",
+      "caption": "PEDLER — The foundational transition calculus",
+      "explanation": "PEDLER establishes the primitive architecture in which states are observed, transitions acquire directional inclinations, and realised trajectories form the Walk.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

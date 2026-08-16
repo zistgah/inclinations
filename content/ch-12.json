@@ -1,0 +1,25 @@
+{
+  "id": "ch-12",
+  "title": "Physical-AI Recognition",
+  "subtitle": "Engineering lineage and innovation history",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The physical-AI programme has an engineering and innovation history independent of present-day generative AI."
+    },
+    {
+      "type": "figure",
+      "id": "physical-ai-recognition",
+      "dimension": "2d",
+      "src": "assets/figures/physical-ai-recognition.png",
+      "alt": "Physical-AI Recognition",
+      "caption": "Physical-AI Recognition — Engineering lineage and innovation history",
+      "explanation": "Recognition, prototypes, implementations and intellectual property form part of the provenance that must remain distinct from later AI-assisted representation.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

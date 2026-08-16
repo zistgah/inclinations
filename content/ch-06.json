@@ -1,0 +1,25 @@
+{
+  "id": "ch-06",
+  "title": "State Spawning",
+  "subtitle": "Hidden intermediate states in apparently simple transitions",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A transition that appears direct at one resolution may contain intermediate states at another."
+    },
+    {
+      "type": "figure",
+      "id": "state-spawning",
+      "dimension": "2d",
+      "src": "assets/figures/state-spawning.png",
+      "alt": "State Spawning",
+      "caption": "State Spawning — Hidden intermediate states in apparently simple transitions",
+      "explanation": "State spawning makes observational resolution part of the PEDLER description and permits apparently discontinuous trajectories to be represented as richer Walks.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

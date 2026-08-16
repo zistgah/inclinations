@@ -1,0 +1,913 @@
+{
+  "meta": {
+    "title": "Inclinations!",
+    "subtitle": "A road to the Singularity",
+    "author": "Abhishek Choudhary",
+    "affiliation": "AyeAI",
+    "orcid": "0009-0002-0684-8320",
+    "copyright": "Copyright (c) 1993-2026 Abhishek Choudhary. All rights reserved.",
+    "license": "CC-BY-SA-4.0",
+    "doi": null,
+    "repo": "zistgah/inclinations",
+    "cover": "assets/figures/cover.png",
+    "language": "en"
+  },
+  "theme": {
+    "tokens": {
+      "--ink": "#0a0e27",
+      "--acc": "#d4a843",
+      "--light": "#fbf6e9"
+    }
+  },
+  "structure": {
+    "parts": [
+      {
+        "id": "pedler",
+        "title": "PEDLER",
+        "chapters": [
+          "pedler",
+          "the-walk",
+          "inclination",
+          "inclination-field",
+          "competition-of-inclinations",
+          "state-spawning",
+          "pedler-field-status-and-research-programme"
+        ]
+      },
+      {
+        "id": "physical-ai",
+        "title": "Physical AI",
+        "chapters": [
+          "ni2a2",
+          "physical-ai-corpus",
+          "physical-ai-lineage",
+          "ni2a2-architecture",
+          "physical-ai-recognition",
+          "physical-laboratory"
+        ]
+      },
+      {
+        "id": "cems",
+        "title": "CEMs",
+        "chapters": [
+          "cems",
+          "cems-hardware",
+          "complete-cems-architecture"
+        ]
+      },
+      {
+        "id": "cemb",
+        "title": "CEMb",
+        "chapters": [
+          "cemb",
+          "cemb-neural-decoder",
+          "cemb-decoding-pipeline"
+        ]
+      },
+      {
+        "id": "singularity",
+        "title": "Singularity",
+        "chapters": [
+          "quantum-neuromorphic-bci",
+          "singularity-interface"
+        ]
+      },
+      {
+        "id": "physics",
+        "title": "Physics",
+        "chapters": [
+          "pedler-and-gravity"
+        ]
+      },
+      {
+        "id": "chemistry",
+        "title": "Chemistry",
+        "chapters": [
+          "chemistry-as-a-pedler-field"
+        ]
+      },
+      {
+        "id": "biochemistry",
+        "title": "Biochemistry",
+        "chapters": [
+          "biochemistry-as-a-pedler-field2",
+          "biochemistry-as-a-pedler-field"
+        ]
+      },
+      {
+        "id": "genetics",
+        "title": "Genetics",
+        "chapters": [
+          "genetics-as-a-pedler-field"
+        ]
+      },
+      {
+        "id": "evolution",
+        "title": "Evolution",
+        "chapters": [
+          "evolutionary-walk",
+          "evolution-and-field-topology"
+        ]
+      },
+      {
+        "id": "mathematical-foundations",
+        "title": "Mathematical Foundations",
+        "chapters": [
+          "signals-and-systems"
+        ]
+      },
+      {
+        "id": "quantum-programme",
+        "title": "Quantum Programme",
+        "chapters": [
+          "wave-particle-duality"
+        ]
+      },
+      {
+        "id": "semantics",
+        "title": "Semantics",
+        "chapters": [
+          "pedler-semantics"
+        ]
+      },
+      {
+        "id": "mathematical-physics",
+        "title": "Mathematical Physics",
+        "chapters": [
+          "inclination-signals-and-collapse"
+        ]
+      },
+      {
+        "id": "cem-architecture",
+        "title": "CEM Architecture",
+        "chapters": [
+          "cem-family",
+          "intent-driven-symmetric-realization",
+          "intent-middleware",
+          "cem-symmetry"
+        ]
+      },
+      {
+        "id": "cem-family",
+        "title": "CEM Family",
+        "chapters": [
+          "eco-cem"
+        ]
+      },
+      {
+        "id": "linguistic-fields",
+        "title": "Linguistic Fields",
+        "chapters": [
+          "lvf"
+        ]
+      },
+      {
+        "id": "ilm",
+        "title": "ILM",
+        "chapters": [
+          "ilm"
+        ]
+      },
+      {
+        "id": "cemb-singularity",
+        "title": "CEMb / Singularity",
+        "chapters": [
+          "cemb-quantum-neuromorphic-bci"
+        ]
+      },
+      {
+        "id": "cem-portfolio",
+        "title": "CEM Portfolio",
+        "chapters": [
+          "complete-cem-research-portfolio"
+        ]
+      },
+      {
+        "id": "humanesque-ecosystem",
+        "title": "Humanesque Ecosystem",
+        "chapters": [
+          "unified-ecosystem-architecture"
+        ]
+      },
+      {
+        "id": "humanesque",
+        "title": "Humanesque",
+        "chapters": [
+          "humanesque-mahajanapad"
+        ]
+      },
+      {
+        "id": "knowledge-architecture",
+        "title": "Knowledge Architecture",
+        "chapters": [
+          "canonical-knowledge-graph"
+        ]
+      },
+      {
+        "id": "iwbt",
+        "title": "IWBT",
+        "chapters": [
+          "interpretive-working-basis-theory"
+        ]
+      },
+      {
+        "id": "synthesis",
+        "title": "Synthesis",
+        "chapters": [
+          "inclinations-synthesis"
+        ]
+      }
+    ],
+    "chapters": [
+      {
+        "id": "ch-01",
+        "number": 1,
+        "title": "PEDLER",
+        "subtitle": "The foundational transition calculus",
+        "source": "content/ch-01.json",
+        "topics": [
+          "PEDLER",
+          "states",
+          "events",
+          "transitions",
+          "inclinations",
+          "Walk"
+        ]
+      },
+      {
+        "id": "ch-02",
+        "number": 2,
+        "title": "The Walk",
+        "subtitle": "Realised trajectories through configuration space",
+        "source": "content/ch-02.json",
+        "topics": [
+          "Walk",
+          "trajectory",
+          "state transition",
+          "inclination",
+          "execution"
+        ]
+      },
+      {
+        "id": "ch-03",
+        "number": 3,
+        "title": "Inclination",
+        "subtitle": "The directional primitive of transition",
+        "source": "content/ch-03.json",
+        "topics": [
+          "inclination",
+          "gradient",
+          "direction",
+          "field",
+          "transition"
+        ]
+      },
+      {
+        "id": "ch-04",
+        "number": 4,
+        "title": "Inclination Field",
+        "subtitle": "From individual dispositions to a field over transitions",
+        "source": "content/ch-04.json",
+        "topics": [
+          "inclination field",
+          "graph",
+          "edges",
+          "gradient",
+          "configuration space"
+        ]
+      },
+      {
+        "id": "ch-05",
+        "number": 5,
+        "title": "Competition of Inclinations",
+        "subtitle": "Lateral inhibition and selective transition",
+        "source": "content/ch-05.json",
+        "topics": [
+          "lateral inhibition",
+          "competition",
+          "selection",
+          "inhibition",
+          "migration"
+        ]
+      },
+      {
+        "id": "ch-06",
+        "number": 6,
+        "title": "State Spawning",
+        "subtitle": "Hidden intermediate states in apparently simple transitions",
+        "source": "content/ch-06.json",
+        "topics": [
+          "state spawning",
+          "resolution",
+          "intermittent states",
+          "observation",
+          "Walk"
+        ]
+      },
+      {
+        "id": "ch-07",
+        "number": 7,
+        "title": "PEDLER Field: Status and Research Programme",
+        "subtitle": "From inclinations to general transition calculus",
+        "source": "content/ch-07.json",
+        "topics": [
+          "PEDLER",
+          "inclination",
+          "Walk",
+          "fields",
+          "CEM",
+          "CEMb",
+          "Eco-CEM",
+          "research programme"
+        ]
+      },
+      {
+        "id": "ch-08",
+        "number": 8,
+        "title": "NI2A2",
+        "subtitle": "Embodied PEDLER and the physical-AI lineage",
+        "source": "content/ch-08.json",
+        "topics": [
+          "NI2A2",
+          "robotics",
+          "embodiment",
+          "adaptive cognition",
+          "physical AI"
+        ]
+      },
+      {
+        "id": "ch-09",
+        "number": 9,
+        "title": "Physical AI Corpus",
+        "subtitle": "Historical existence, source recovery and current realization",
+        "source": "content/ch-09.json",
+        "topics": [
+          "physical AI",
+          "corpus",
+          "retrieval",
+          "laboratory",
+          "implementation",
+          "history"
+        ]
+      },
+      {
+        "id": "ch-10",
+        "number": 10,
+        "title": "Physical AI Lineage",
+        "subtitle": "NI2A2 → ANGEL → TARA → later physical AI",
+        "source": "content/ch-10.json",
+        "topics": [
+          "NI2A2",
+          "ANGEL",
+          "TARA",
+          "robotics",
+          "embodiment",
+          "lineage"
+        ]
+      },
+      {
+        "id": "ch-11",
+        "number": 11,
+        "title": "NI2A2 Architecture",
+        "subtitle": "Natural interfaces, adaptive learning and embodied cognition",
+        "source": "content/ch-11.json",
+        "topics": [
+          "NI2A2",
+          "natural interface",
+          "adaptive learning",
+          "robotics",
+          "autonomy"
+        ]
+      },
+      {
+        "id": "ch-12",
+        "number": 12,
+        "title": "Physical-AI Recognition",
+        "subtitle": "Engineering lineage and innovation history",
+        "source": "content/ch-12.json",
+        "topics": [
+          "IET",
+          "innovation",
+          "NI2A2",
+          "TARA",
+          "patent",
+          "engineering"
+        ]
+      },
+      {
+        "id": "ch-13",
+        "number": 13,
+        "title": "Physical Laboratory",
+        "subtitle": "From equations to measurable realization",
+        "source": "content/ch-13.json",
+        "topics": [
+          "laboratory",
+          "RTL",
+          "FPGA",
+          "silicon",
+          "neuromorphic",
+          "measurement"
+        ]
+      },
+      {
+        "id": "ch-14",
+        "number": 14,
+        "title": "CEMs",
+        "subtitle": "Synthetiform realization of cognitive transition fields",
+        "source": "content/ch-14.json",
+        "topics": [
+          "CEMs",
+          "synthetiform",
+          "PEDLER",
+          "hardware",
+          "computation",
+          "neuromorphic"
+        ]
+      },
+      {
+        "id": "ch-15",
+        "number": 15,
+        "title": "CEMs Hardware",
+        "subtitle": "From conventional acceleration to neuromorphic and quantum realization",
+        "source": "content/ch-15.json",
+        "topics": [
+          "GPU",
+          "FPGA",
+          "ASIC",
+          "neuromorphic",
+          "quantum",
+          "hardware"
+        ]
+      },
+      {
+        "id": "ch-16",
+        "number": 16,
+        "title": "Complete CEMs Architecture",
+        "subtitle": "From PEDLER semantics to executable cognitive hardware",
+        "source": "content/ch-16.json",
+        "topics": [
+          "CEMs",
+          "state",
+          "inclination",
+          "selection",
+          "memory",
+          "matmul",
+          "neuromorphic",
+          "quantum"
+        ]
+      },
+      {
+        "id": "ch-17",
+        "number": 17,
+        "title": "CEMb",
+        "subtitle": "Bioform realization of the cognitive field",
+        "source": "content/ch-17.json",
+        "topics": [
+          "CEMb",
+          "bioform",
+          "brain",
+          "neural field",
+          "cognition"
+        ]
+      },
+      {
+        "id": "ch-18",
+        "number": 18,
+        "title": "CEMb Neural Decoder",
+        "subtitle": "Recovering the underlying field from neural observations",
+        "source": "content/ch-18.json",
+        "topics": [
+          "EEG",
+          "ECoG",
+          "intracortical",
+          "neural decoding",
+          "inclinations",
+          "semantic state"
+        ]
+      },
+      {
+        "id": "ch-19",
+        "number": 19,
+        "title": "CEMb Decoding Pipeline",
+        "subtitle": "Neural events to semantic cognitive state",
+        "source": "content/ch-19.json",
+        "topics": [
+          "neural events",
+          "state",
+          "inclination",
+          "state spawning",
+          "ensemble",
+          "semantics"
+        ]
+      },
+      {
+        "id": "ch-20",
+        "number": 20,
+        "title": "Quantum Neuromorphic BCI",
+        "subtitle": "The bridge between CEMb and CEMs",
+        "source": "content/ch-20.json",
+        "topics": [
+          "BCI",
+          "quantum neuromorphic",
+          "CEMb",
+          "CEMs",
+          "semantic decoding",
+          "S*"
+        ]
+      },
+      {
+        "id": "ch-21",
+        "number": 21,
+        "title": "Singularity Interface",
+        "subtitle": "Convergence of bioform and synthetiform cognition",
+        "source": "content/ch-21.json",
+        "topics": [
+          "CEMb",
+          "CEMs",
+          "convergence",
+          "BCI",
+          "quantum",
+          "S*"
+        ]
+      },
+      {
+        "id": "ch-22",
+        "number": 22,
+        "title": "PEDLER and Gravity",
+        "subtitle": "From configuration geometry to spacetime geometry",
+        "source": "content/ch-22.json",
+        "topics": [
+          "configuration geometry",
+          "spacetime",
+          "gravity",
+          "quantum gravity",
+          "metric"
+        ]
+      },
+      {
+        "id": "ch-23",
+        "number": 23,
+        "title": "Chemistry as a PEDLER Field",
+        "subtitle": "Chemical transitions as signed inclinations",
+        "source": "content/ch-23.json",
+        "topics": [
+          "chemistry",
+          "chemical field",
+          "reaction",
+          "inclination",
+          "Walk",
+          "catalysis"
+        ]
+      },
+      {
+        "id": "ch-24",
+        "number": 24,
+        "title": "Biochemistry as a PEDLER Field",
+        "subtitle": "Coupled molecular, conformational, electrochemical and informational transitions",
+        "source": "content/ch-24.json",
+        "topics": [
+          "biochemistry",
+          "molecular biology",
+          "conformation",
+          "electrochemistry",
+          "information"
+        ]
+      },
+      {
+        "id": "ch-25",
+        "number": 25,
+        "title": "Biochemistry as a PEDLER Field",
+        "subtitle": "Chemistry becomes a biological configuration space",
+        "source": "content/ch-25.json",
+        "topics": [
+          "chemistry",
+          "biochemistry",
+          "configuration space",
+          "inclination",
+          "Walk"
+        ]
+      },
+      {
+        "id": "ch-26",
+        "number": 26,
+        "title": "Genetics as a PEDLER Field",
+        "subtitle": "Regulation, inheritance and biological configuration",
+        "source": "content/ch-26.json",
+        "topics": [
+          "genetics",
+          "DNA",
+          "gene regulation",
+          "inheritance",
+          "expression",
+          "state"
+        ]
+      },
+      {
+        "id": "ch-27",
+        "number": 27,
+        "title": "Evolutionary Walk",
+        "subtitle": "Population transitions through changing biological fields",
+        "source": "content/ch-27.json",
+        "topics": [
+          "evolution",
+          "population",
+          "adaptation",
+          "mutation",
+          "selection",
+          "Walk"
+        ]
+      },
+      {
+        "id": "ch-28",
+        "number": 28,
+        "title": "Evolution and Field Topology",
+        "subtitle": "Robustness, novelty and evolvability",
+        "source": "content/ch-28.json",
+        "topics": [
+          "evolution",
+          "field topology",
+          "mutation",
+          "robustness",
+          "evolvability",
+          "development"
+        ]
+      },
+      {
+        "id": "ch-29",
+        "number": 29,
+        "title": "Signals and Systems",
+        "subtitle": "Classical mathematical correspondences to PEDLER",
+        "source": "content/ch-29.json",
+        "topics": [
+          "signals",
+          "systems",
+          "control",
+          "Fourier",
+          "Laplace",
+          "filters",
+          "HMM",
+          "stochastic systems"
+        ]
+      },
+      {
+        "id": "ch-30",
+        "number": 30,
+        "title": "Wave–Particle Duality",
+        "subtitle": "Local transition quanta and ensemble fields",
+        "source": "content/ch-30.json",
+        "topics": [
+          "wave-particle duality",
+          "quantization",
+          "ensemble",
+          "observation",
+          "collapse"
+        ]
+      },
+      {
+        "id": "ch-31",
+        "number": 31,
+        "title": "PEDLER Semantics",
+        "subtitle": "Configuration, meaning and executable transition",
+        "source": "content/ch-31.json",
+        "topics": [
+          "semantics",
+          "configuration",
+          "meaning",
+          "intent",
+          "execution",
+          "state"
+        ]
+      },
+      {
+        "id": "ch-32",
+        "number": 32,
+        "title": "Inclination, Signals and Collapse",
+        "subtitle": "A unified transition-field interpretation",
+        "source": "content/ch-32.json",
+        "topics": [
+          "inclination",
+          "signals",
+          "systems",
+          "control",
+          "collapse",
+          "wave-particle"
+        ]
+      },
+      {
+        "id": "ch-33",
+        "number": 33,
+        "title": "CEM Family",
+        "subtitle": "One cognitive field, multiple substrates",
+        "source": "content/ch-33.json",
+        "topics": [
+          "CEMs",
+          "CEMb",
+          "Eco-CEM",
+          "substrate",
+          "realization"
+        ]
+      },
+      {
+        "id": "ch-34",
+        "number": 34,
+        "title": "Intent-Driven Symmetric Realization",
+        "subtitle": "Computational intent as the source of realization pathways",
+        "source": "content/ch-34.json",
+        "topics": [
+          "intent",
+          "semantic object",
+          "verified refinement",
+          "equivalence",
+          "CEMs",
+          "CEMb"
+        ]
+      },
+      {
+        "id": "ch-35",
+        "number": 35,
+        "title": "Intent Middleware",
+        "subtitle": "Verified semantic refinement between intent and realization",
+        "source": "content/ch-35.json",
+        "topics": [
+          "intent",
+          "semantic middleware",
+          "verification",
+          "constraints",
+          "proof",
+          "realization"
+        ]
+      },
+      {
+        "id": "ch-36",
+        "number": 36,
+        "title": "CEM Symmetry",
+        "subtitle": "Bioform and synthetiform realization are parallel",
+        "source": "content/ch-36.json",
+        "topics": [
+          "CEMb",
+          "CEMs",
+          "bioform",
+          "synthetiform",
+          "symmetry",
+          "intent"
+        ]
+      },
+      {
+        "id": "ch-37",
+        "number": 37,
+        "title": "Eco-CEM",
+        "subtitle": "Ecological intelligence as a parallel substrate",
+        "source": "content/ch-37.json",
+        "topics": [
+          "Eco-CEM",
+          "ecology",
+          "kelp",
+          "collective intelligence",
+          "field"
+        ]
+      },
+      {
+        "id": "ch-38",
+        "number": 38,
+        "title": "LVF",
+        "subtitle": "Linguistic Vector Fields",
+        "source": "content/ch-38.json",
+        "topics": [
+          "LVF",
+          "language",
+          "linguistics",
+          "vector field",
+          "translation",
+          "interpretation"
+        ]
+      },
+      {
+        "id": "ch-39",
+        "number": 39,
+        "title": "ILM",
+        "subtitle": "Integrative Linguistic Multiscript",
+        "source": "content/ch-39.json",
+        "topics": [
+          "ILM",
+          "multiscript",
+          "multilingual",
+          "canonical representation",
+          "Romenagri",
+          "language-independent"
+        ]
+      },
+      {
+        "id": "ch-40",
+        "number": 40,
+        "title": "CEMb Quantum Neuromorphic BCI",
+        "subtitle": "Semantic neural decoding and cognitive convergence",
+        "source": "content/ch-40.json",
+        "topics": [
+          "CEMb",
+          "CEMs",
+          "BCI",
+          "quantum neuromorphic",
+          "semantic decoding",
+          "S*CEMb decodes bioform cognition while CEMs provides a synthetiform cognitive engine."
+        ]
+      },
+      {
+        "id": "ch-41",
+        "number": 41,
+        "title": "Complete CEM Research Portfolio",
+        "subtitle": "CEMs structural and CEMb behavioural systems",
+        "source": "content/ch-41.json",
+        "topics": [
+          "CEMs",
+          "CEMb",
+          "semantics",
+          "behaviour",
+          "verification",
+          "optimization",
+          "interaction"
+        ]
+      },
+      {
+        "id": "ch-42",
+        "number": 42,
+        "title": "Unified Ecosystem Architecture",
+        "subtitle": "PEDLER, FAKIR, LVF, ILM and the CEM family",
+        "source": "content/ch-42.json",
+        "topics": [
+          "PEDLER",
+          "FAKIR",
+          "LVF",
+          "ILM",
+          "CEMs",
+          "CEMb",
+          "execution",
+          "observation"
+        ]
+      },
+      {
+        "id": "ch-43",
+        "number": 43,
+        "title": "Humanesque Mahajanapad",
+        "subtitle": "A civilizational architecture for knowledge and execution",
+        "source": "content/ch-43.json",
+        "topics": [
+          "Mahajanapad",
+          "FAKIR",
+          "PEDLER",
+          "ILM",
+          "HPS",
+          "CEM",
+          "physical AI",
+          "sovereignty"
+        ]
+      },
+      {
+        "id": "ch-44",
+        "number": 44,
+        "title": "Canonical Knowledge Graph",
+        "subtitle": "Posters as projections of a higher-dimensional structure",
+        "source": "content/ch-44.json",
+        "topics": [
+          "knowledge graph",
+          "Physical AI",
+          "ontology",
+          "posters",
+          "typed graph",
+          "projection"
+        ]
+      },
+      {
+        "id": "ch-45",
+        "number": 45,
+        "title": "Interpretive Working Basis Theory",
+        "subtitle": "The observer must not substitute their own representational basis",
+        "source": "content/ch-45.json",
+        "topics": [
+          "IWBT",
+          "interpretation",
+          "working basis",
+          "projection",
+          "outliers",
+          "epistemology"
+        ]
+      },
+      {
+        "id": "ch-46",
+        "number": 46,
+        "title": "Inclinations: Synthesis",
+        "subtitle": "From local disposition to universal transition architecture",
+        "source": "content/ch-46.json",
+        "topics": [
+          "inclination",
+          "PEDLER",
+          "Walk",
+          "CEMs",
+          "CEMb",
+          "LVF",
+          "ILM",
+          "Singularity"
+        ]
+      }
+    ]
+  }
+}

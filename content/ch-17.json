@@ -1,0 +1,25 @@
+{
+  "id": "ch-17",
+  "title": "CEMb",
+  "subtitle": "Bioform realization of the cognitive field",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "CEMb treats biological cognition as a realization of structured transition fields."
+    },
+    {
+      "type": "figure",
+      "id": "cemb",
+      "dimension": "2d",
+      "src": "assets/figures/cemb.png",
+      "alt": "CEMb",
+      "caption": "CEMb — Bioform realization of the cognitive field",
+      "explanation": "Neural, biochemical and cognitive configurations become part of the same general field ontology used by PEDLER.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

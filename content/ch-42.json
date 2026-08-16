@@ -1,0 +1,25 @@
+{
+  "id": "ch-42",
+  "title": "Unified Ecosystem Architecture",
+  "subtitle": "PEDLER, FAKIR, LVF, ILM and the CEM family",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The complete architecture separates domain space, linguistic representation, transition dynamics and realization."
+    },
+    {
+      "type": "figure",
+      "id": "unified-ecosystem-architecture",
+      "dimension": "2d",
+      "src": "assets/figures/unified-ecosystem-architecture.png",
+      "alt": "Unified Ecosystem Architecture",
+      "caption": "Unified Ecosystem Architecture — PEDLER, FAKIR, LVF, ILM and the CEM family",
+      "explanation": "FAKIR indexes human activity and knowledge; PEDLER supplies dynamics; LVF and ILM provide linguistic representation; CEMs/CEMb/Eco-CEM provide realization substrates.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

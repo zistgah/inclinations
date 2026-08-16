@@ -1,0 +1,25 @@
+{
+  "id": "ch-28",
+  "title": "Evolution and Field Topology",
+  "subtitle": "Robustness, novelty and evolvability",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Evolution depends not only on selection but on the topology of accessible future configurations."
+    },
+    {
+      "type": "figure",
+      "id": "evolution-and-field-topology",
+      "dimension": "2d",
+      "src": "assets/figures/evolution-and-field-topology.png",
+      "alt": "Evolution and Field Topology",
+      "caption": "Evolution and Field Topology — Robustness, novelty and evolvability",
+      "explanation": "Robustness preserves successful current states while evolvability concerns the structure of possible future Walks and the ability to generate novel accessible transitions.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

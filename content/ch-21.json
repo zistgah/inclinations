@@ -1,0 +1,25 @@
+{
+  "id": "ch-21",
+  "title": "Singularity Interface",
+  "subtitle": "Convergence of bioform and synthetiform cognition",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The Singularity is represented as convergence rather than replacement."
+    },
+    {
+      "type": "figure",
+      "id": "singularity-interface",
+      "dimension": "2d",
+      "src": "assets/figures/singularity-interface.png",
+      "alt": "Singularity Interface",
+      "caption": "Singularity Interface — Convergence of bioform and synthetiform cognition",
+      "explanation": "Bioform and synthetiform cognition become coupled through shared semantic structure, bidirectional interfaces and co-adaptive realization.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

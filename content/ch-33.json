@@ -1,0 +1,25 @@
+{
+  "id": "ch-33",
+  "title": "CEM Family",
+  "subtitle": "One cognitive field, multiple substrates",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "CEMs, CEMb and Eco-CEM are parallel manifestations of the same underlying abstraction."
+    },
+    {
+      "type": "figure",
+      "id": "cem-family",
+      "dimension": "2d",
+      "src": "assets/figures/cem-family.png",
+      "alt": "CEM Family",
+      "caption": "CEM Family — One cognitive field, multiple substrates",
+      "explanation": "The family separates ontology from substrate: synthetiform, bioform and ecological systems can instantiate related field dynamics without becoming sequential developmental stages.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

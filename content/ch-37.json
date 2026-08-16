@@ -1,0 +1,25 @@
+{
+  "id": "ch-37",
+  "title": "Eco-CEM",
+  "subtitle": "Ecological intelligence as a parallel substrate",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Ecological systems provide another possible realization substrate for PEDLER-field intelligence."
+    },
+    {
+      "type": "figure",
+      "id": "eco-cem",
+      "dimension": "2d",
+      "src": "assets/figures/eco-cem.png",
+      "alt": "Eco-CEM",
+      "caption": "Eco-CEM — Ecological intelligence as a parallel substrate",
+      "explanation": "Eco-CEM extends the ontology beyond individual organisms and machines toward distributed ecological configurations and collective transition dynamics.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

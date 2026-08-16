@@ -1,0 +1,25 @@
+{
+  "id": "ch-05",
+  "title": "Competition of Inclinations",
+  "subtitle": "Lateral inhibition and selective transition",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Multiple inclinations can compete before one becomes the realised transition."
+    },
+    {
+      "type": "figure",
+      "id": "competition-of-inclinations",
+      "dimension": "2d",
+      "src": "assets/figures/competition-of-inclinations.png",
+      "alt": "Competition of Inclinations",
+      "caption": "Competition of Inclinations — Lateral inhibition and selective transition",
+      "explanation": "Lateral inhibition suppresses competing tendencies, allowing the transition field to select trajectories rather than treating every possible transition as equally executable.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "generator": "matba studio",
+  "book": "Inclinations!",
+  "cover": {
+    "file": "posters/cover.png",
+    "sha256": "5e28861a03d39035e5fab6ba6d919ad327ce52497978381372224b2601fb8b90"
+  },
+  "figures": [
+    {
+      "chapter": "ch-01",
+      "slug": "pedler",
+      "title": "PEDLER",
+      "file": "posters/pedler.png",
+      "sha256": "aaff45012bf9db4a6e070f1e6ce1a83de03f28980d01a74ef149bebba0d37eef"
+    },
+    {
+      "chapter": "ch-02",
+      "slug": "the-walk",
+      "title": "The Walk",
+      "file": "posters/the-walk.png",
+      "sha256": "76cf22101e2bf509706089b05593d7609ea8b7d4686c4f35419ca6d19efdcef9"
+    },
+    {
+      "chapter": "ch-03",
+      "slug": "inclination",
+      "title": "Inclination",
+      "file": "posters/inclination.png",
+      "sha256": "1d2e343c755d21ce0efa7ce5daaee14493b9ddc2b92931ad645461c00d7078f1"
+    },
+    {
+      "chapter": "ch-04",
+      "slug": "inclination-field",
+      "title": "Inclination Field",
+      "file": "posters/inclination-field.png",
+      "sha256": "26eb79a995d6de546e0be709bd8cf2c34a5ee54b5988dce244050ab694b577a8"
+    },
+    {
+      "chapter": "ch-05",
+      "slug": "competition-of-inclinations",
+      "title": "Competition of Inclinations",
+      "file": "posters/competition-of-inclinations.png",
+      "sha256": "f5f5efece2645b61f4e83c8d2d1170f4c03ce066ed829b33d0c09e1425a59c66"
+    },
+    {
+      "chapter": "ch-06",
+      "slug": "state-spawning",
+      "title": "State Spawning",
+      "file": "posters/state-spawning.png",
+      "sha256": "44cc1698e998eb34e1fba6047248d5890541f798154985cd7d32c32e0e1275d4"
+    },
+    {
+      "chapter": "ch-07",
+      "slug": "pedler-field-status-and-research-programme",
+      "title": "PEDLER Field: Status and Research Programme",
+      "file": "posters/pedler-field-status-and-research-programme.png",
+      "sha256": "495bf74468e43b94db8da9423117d6021be6c3d8910c465b03694ab773b10fad"
+    },
+    {
+      "chapter": "ch-08",
+      "slug": "ni2a2",
+      "title": "NI2A2",
+      "file": "posters/ni2a2.png",
+      "sha256": "0a08b19fb251d69008ea0dbe4334c8dad4db78e29a805fe665691399b559a594"
+    },
+    {
+      "chapter": "ch-09",
+      "slug": "physical-ai-corpus",
+      "title": "Physical AI Corpus",
+      "file": "posters/physical-ai-corpus.png",
+      "sha256": "18631a9e96ed494c31b0f7331cc7865930e21d05c0a02892717ac0021a9bfd68"
+    },
+    {
+      "chapter": "ch-10",
+      "slug": "physical-ai-lineage",
+      "title": "Physical AI Lineage",
+      "file": "posters/physical-ai-lineage.png",
+      "sha256": "95ebd21029cfe457355ef060c8ac52b8504e2a4bfe817c58b8f4ea4f485b6269"
+    },
+    {
+      "chapter": "ch-11",
+      "slug": "ni2a2-architecture",
+      "title": "NI2A2 Architecture",
+      "file": "posters/ni2a2-architecture.png",
+      "sha256": "0b83e1972efc7379f65ab644610600067356fac2a02d5fc595e76c7ebb450544"
+    },
+    {
+      "chapter": "ch-12",
+      "slug": "physical-ai-recognition",
+      "title": "Physical-AI Recognition",
+      "file": "posters/physical-ai-recognition.png",
+      "sha256": "d43bce639bbe92a7dafa403a3a0ba342d68eff2ffc948bc5b034ab743b21884d"
+    },
+    {
+      "chapter": "ch-13",
+      "slug": "physical-laboratory",
+      "title": "Physical Laboratory",
+      "file": "posters/physical-laboratory.png",
+      "sha256": "a0704b3c3df8666d4572bd489743059c3a133884e39aa6ba9520c5bf1f8b2a6f"
+    },
+    {
+      "chapter": "ch-14",
+      "slug": "cems",
+      "title": "CEMs",
+      "file": "posters/cems.png",
+      "sha256": "3cceccdff4f93cbbf5084d7ec983b00bebbf08eee452af0016cd08903b696b89"
+    },
+    {
+      "chapter": "ch-15",
+      "slug": "cems-hardware",
+      "title": "CEMs Hardware",
+      "file": "posters/cems-hardware.png",
+      "sha256": "f6c4db400f796789ad6a5e6ce501b575a3821b6ee2957e165d4835e9f538047e"
+    },
+    {
+      "chapter": "ch-16",
+      "slug": "complete-cems-architecture",
+      "title": "Complete CEMs Architecture",
+      "file": "posters/complete-cems-architecture.png",
+      "sha256": "82990ae84c03d8be5c05840b6b20780624a380167688585fd4ea882bcc88009a"
+    },
+    {
+      "chapter": "ch-17",
+      "slug": "cemb",
+      "title": "CEMb",
+      "file": "posters/cemb.png",
+      "sha256": "c05ca404600c24a83633dadde1af353a3fb8a8056cee931ad4fc64f646b4c5ed"
+    },
+    {
+      "chapter": "ch-18",
+      "slug": "cemb-neural-decoder",
+      "title": "CEMb Neural Decoder",
+      "file": "posters/cemb-neural-decoder.png",
+      "sha256": "3bb8f31c67fa7e6486db70c6ef0ca4728007cce0b2f4a6eb031c60ba58cab3be"
+    },
+    {
+      "chapter": "ch-19",
+      "slug": "cemb-decoding-pipeline",
+      "title": "CEMb Decoding Pipeline",
+      "file": "posters/cemb-decoding-pipeline.png",
+      "sha256": "a5c6265e3c305b8f1ef87fa22fd07ac45caa4bed35a27b4ac161e9faa87f2ac7"
+    },
+    {
+      "chapter": "ch-20",
+      "slug": "quantum-neuromorphic-bci",
+      "title": "Quantum Neuromorphic BCI",
+      "file": "posters/quantum-neuromorphic-bci.png",
+      "sha256": "d09cc8910c4f014d07347bef409d1ea1c1a0262fa4fceb7523c398044e0de024"
+    },
+    {
+      "chapter": "ch-21",
+      "slug": "singularity-interface",
+      "title": "Singularity Interface",
+      "file": "posters/singularity-interface.png",
+      "sha256": "702ce82184c3fdf6c93593259a19d94022ea7a9a8599b13f1a9d8e9086c0c73f"
+    },
+    {
+      "chapter": "ch-22",
+      "slug": "pedler-and-gravity",
+      "title": "PEDLER and Gravity",
+      "file": "posters/pedler-and-gravity.png",
+      "sha256": "d4e46e79787b97f2b15f88341a15dbdf070b001227e5820ff20afd50b3edcd0c"
+    },
+    {
+      "chapter": "ch-23",
+      "slug": "chemistry-as-a-pedler-field",
+      "title": "Chemistry as a PEDLER Field",
+      "file": "posters/chemistry-as-a-pedler-field.png",
+      "sha256": "69cad9281465b507f11fe4c4265758b0e51aaee39545f8c37e0c0c0aa478ae59"
+    },
+    {
+      "chapter": "ch-24",
+      "slug": "biochemistry-as-a-pedler-field2",
+      "title": "Biochemistry as a PEDLER Field",
+      "file": "posters/biochemistry-as-a-pedler-field2.png",
+      "sha256": "e4ef1bfba254ca4ab94fb6765d8c0909902fa9b4227f86a3b781ae9ebabd9b56"
+    },
+    {
+      "chapter": "ch-25",
+      "slug": "biochemistry-as-a-pedler-field",
+      "title": "Biochemistry as a PEDLER Field",
+      "file": "posters/biochemistry-as-a-pedler-field.png",
+      "sha256": "6d7aafc6a7c7facece0b6b3368c0edcb07bf541a710e165f01c8376aaee0ecc3"
+    },
+    {
+      "chapter": "ch-26",
+      "slug": "genetics-as-a-pedler-field",
+      "title": "Genetics as a PEDLER Field",
+      "file": "posters/genetics-as-a-pedler-field.png",
+      "sha256": "b1e982ac84b8369153c332c85ff9ae9bc6676aad8365cd4589e317bb1835ec74"
+    },
+    {
+      "chapter": "ch-27",
+      "slug": "evolutionary-walk",
+      "title": "Evolutionary Walk",
+      "file": "posters/evolutionary-walk.png",
+      "sha256": "3aa8f0e06a11fc13cfa3ab2cd0fcf73ec96d961e1c85df446898ab8e245d93e6"
+    },
+    {
+      "chapter": "ch-28",
+      "slug": "evolution-and-field-topology",
+      "title": "Evolution and Field Topology",
+      "file": "posters/evolution-and-field-topology.png",
+      "sha256": "e0157d547d3b946d8c884718e791e1d8623ddaa3d1fba27d994726043a81511a"
+    },
+    {
+      "chapter": "ch-29",
+      "slug": "signals-and-systems",
+      "title": "Signals and Systems",
+      "file": "posters/signals-and-systems.png",
+      "sha256": "3e94809015331eff6d2d3bb103d2e95635cbcc457305bbdf52ac3e8747e41a7b"
+    },
+    {
+      "chapter": "ch-30",
+      "slug": "wave-particle-duality",
+      "title": "Wave–Particle Duality",
+      "file": "posters/wave-particle-duality.png",
+      "sha256": "1276a62ed178638fc858d31e5a2d1e35edc2d89cdf737caadedc038a284e9b6c"
+    },
+    {
+      "chapter": "ch-31",
+      "slug": "pedler-semantics",
+      "title": "PEDLER Semantics",
+      "file": "posters/pedler-semantics.png",
+      "sha256": "3630657f490cd111b4138839aa0df195a02c1213510009eced9a863460710cbf"
+    },
+    {
+      "chapter": "ch-32",
+      "slug": "inclination-signals-and-collapse",
+      "title": "Inclination, Signals and Collapse",
+      "file": "posters/inclination-signals-and-collapse.png",
+      "sha256": "647570a12d7c0e41d3284ddde52f6959f7093cc4eee1d5be22841643736e5901"
+    },
+    {
+      "chapter": "ch-33",
+      "slug": "cem-family",
+      "title": "CEM Family",
+      "file": "posters/cem-family.png",
+      "sha256": "1188b2480b92acb3bddcdef05b71bbf891651bfc9067683c9e0d536115b9c4a7"
+    },
+    {
+      "chapter": "ch-34",
+      "slug": "intent-driven-symmetric-realization",
+      "title": "Intent-Driven Symmetric Realization",
+      "file": "posters/intent-driven-symmetric-realization.png",
+      "sha256": "76daf96c4edac9036654e078bc3ba5f76ac614f12dfe5a6c827c3ed465b8f41e"
+    },
+    {
+      "chapter": "ch-35",
+      "slug": "intent-middleware",
+      "title": "Intent Middleware",
+      "file": "posters/intent-middleware.png",
+      "sha256": "829731f5be865b4cad249253ed9b3ce29d7b4c192a6a12a7f35d6422ccfe9286"
+    },
+    {
+      "chapter": "ch-36",
+      "slug": "cem-symmetry",
+      "title": "CEM Symmetry",
+      "file": "posters/cem-symmetry.png",
+      "sha256": "dd212372c7aa7d5fd28cf8ae7a966d98aacee4a4c617ba6878ae97256b9b5c59"
+    },
+    {
+      "chapter": "ch-37",
+      "slug": "eco-cem",
+      "title": "Eco-CEM",
+      "file": "posters/eco-cem.png",
+      "sha256": "6b5ee8bb4ac4a0c38b2dfba61bdad7ab40a82eb79dfa6f42b12cb6e0def45da1"
+    },
+    {
+      "chapter": "ch-38",
+      "slug": "lvf",
+      "title": "LVF",
+      "file": "posters/lvf.png",
+      "sha256": "92d70186d2f1deabdf07368a1f4e4b19aab3700f52d5cf55ae3102e48d9158de"
+    },
+    {
+      "chapter": "ch-39",
+      "slug": "ilm",
+      "title": "ILM",
+      "file": "posters/ilm.png",
+      "sha256": "da183503cf0accae76dc7531677bb951bfde4ccc0468b64da2b59abe8063853e"
+    },
+    {
+      "chapter": "ch-40",
+      "slug": "cemb-quantum-neuromorphic-bci",
+      "title": "CEMb Quantum Neuromorphic BCI",
+      "file": "posters/cemb-quantum-neuromorphic-bci.png",
+      "sha256": "01ed1108c1e027bcdf1d7dd348040e37fac6ea694ad0b1186b36cfaff000204d"
+    },
+    {
+      "chapter": "ch-41",
+      "slug": "complete-cem-research-portfolio",
+      "title": "Complete CEM Research Portfolio",
+      "file": "posters/complete-cem-research-portfolio.png",
+      "sha256": "61393a52c348466b81ceb419442b086f131452c459d233ed9fb7a9cf2ee555b7"
+    },
+    {
+      "chapter": "ch-42",
+      "slug": "unified-ecosystem-architecture",
+      "title": "Unified Ecosystem Architecture",
+      "file": "posters/unified-ecosystem-architecture.png",
+      "sha256": "69e7e4ea88bfa3d0aace3cb2672a243a5534b8f991d3b8a7e294a88ff4947eb0"
+    },
+    {
+      "chapter": "ch-43",
+      "slug": "humanesque-mahajanapad",
+      "title": "Humanesque Mahajanapad",
+      "file": "posters/humanesque-mahajanapad.png",
+      "sha256": "fee73f9bf71af44a148f4805ea625ad532198ca6ed810faa2b3e916d779db4c8"
+    },
+    {
+      "chapter": "ch-44",
+      "slug": "canonical-knowledge-graph",
+      "title": "Canonical Knowledge Graph",
+      "file": "posters/canonical-knowledge-graph.png",
+      "sha256": "e0cb7aebb96581a8a4f2ed867a3fa1c468300025f570950ceb30b787f6161f3c"
+    },
+    {
+      "chapter": "ch-45",
+      "slug": "interpretive-working-basis-theory",
+      "title": "Interpretive Working Basis Theory",
+      "file": "posters/interpretive-working-basis-theory.png",
+      "sha256": "0810743516b26c1785267624e02ae66c0d7185e6acd6b119610da83a9c86316e"
+    },
+    {
+      "chapter": "ch-46",
+      "slug": "inclinations-synthesis",
+      "title": "Inclinations: Synthesis",
+      "file": "posters/inclinations-synthesis.png",
+      "sha256": "918e624a77503604b3e38a3d6fc76818d5bf46bb03643b57411e47db6fd11828"
+    }
+  ]
+}

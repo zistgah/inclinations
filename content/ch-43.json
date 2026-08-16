@@ -1,0 +1,25 @@
+{
+  "id": "ch-43",
+  "title": "Humanesque Mahajanapad",
+  "subtitle": "A civilizational architecture for knowledge and execution",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The Humanesque architecture integrates cognitive, linguistic, computational and civilizational infrastructure."
+    },
+    {
+      "type": "figure",
+      "id": "humanesque-mahajanapad",
+      "dimension": "2d",
+      "src": "assets/figures/humanesque-mahajanapad.png",
+      "alt": "Humanesque Mahajanapad",
+      "caption": "Humanesque Mahajanapad — A civilizational architecture for knowledge and execution",
+      "explanation": "Domain classification, language-independent representation, executable programming, cognitive realization and sovereign knowledge infrastructure become layers of one ecosystem.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

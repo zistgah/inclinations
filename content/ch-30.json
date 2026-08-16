@@ -1,0 +1,25 @@
+{
+  "id": "ch-30",
+  "title": "Wave–Particle Duality",
+  "subtitle": "Local transition quanta and ensemble fields",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A localized inclination may exhibit particle-like behaviour while ensembles reveal field-like behaviour."
+    },
+    {
+      "type": "figure",
+      "id": "wave-particle-duality",
+      "dimension": "2d",
+      "src": "assets/figures/wave-particle-duality.png",
+      "alt": "Wave–Particle Duality",
+      "caption": "Wave–Particle Duality — Local transition quanta and ensemble fields",
+      "explanation": "The framework frames wave–particle duality as a possible resolution-dependent manifestation of transition quanta and their aggregate field.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-44",
+  "title": "Canonical Knowledge Graph",
+  "subtitle": "Posters as projections of a higher-dimensional structure",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The canonical artifact is the evolving knowledge graph rather than any individual poster."
+    },
+    {
+      "type": "figure",
+      "id": "canonical-knowledge-graph",
+      "dimension": "2d",
+      "src": "assets/figures/canonical-knowledge-graph.png",
+      "alt": "Canonical Knowledge Graph",
+      "caption": "Canonical Knowledge Graph — Posters as projections of a higher-dimensional structure",
+      "explanation": "Posters provide different projections of the same underlying typed structure, allowing discovery, navigation, synthesis and future expansion without forcing a single visual representation.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

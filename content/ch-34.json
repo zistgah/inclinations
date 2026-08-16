@@ -1,0 +1,25 @@
+{
+  "id": "ch-34",
+  "title": "Intent-Driven Symmetric Realization",
+  "subtitle": "Computational intent as the source of realization pathways",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Intent drives both biological and synthetiform realization."
+    },
+    {
+      "type": "figure",
+      "id": "intent-driven-symmetric-realization",
+      "dimension": "2d",
+      "src": "assets/figures/intent-driven-symmetric-realization.png",
+      "alt": "Intent-Driven Symmetric Realization",
+      "caption": "Intent-Driven Symmetric Realization — Computational intent as the source of realization pathways",
+      "explanation": "Intent is transformed into a semantic object, verified refinement and equivalence class from which admissible CEMb and CEMs realizations emerge symmetrically.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

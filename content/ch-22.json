@@ -1,0 +1,25 @@
+{
+  "id": "ch-22",
+  "title": "PEDLER and Gravity",
+  "subtitle": "From configuration geometry to spacetime geometry",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PEDLER transition geometry suggests a route from configuration-space geometry toward physical geometry."
+    },
+    {
+      "type": "figure",
+      "id": "pedler-and-gravity",
+      "dimension": "2d",
+      "src": "assets/figures/pedler-and-gravity.png",
+      "alt": "PEDLER and Gravity",
+      "caption": "PEDLER and Gravity — From configuration geometry to spacetime geometry",
+      "explanation": "The research programme asks whether inclination fields and transition geometry can induce effective metrics, horizons, curvature and ultimately gravitational structure.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

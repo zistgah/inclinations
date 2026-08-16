@@ -1,0 +1,25 @@
+{
+  "id": "ch-09",
+  "title": "Physical AI Corpus",
+  "subtitle": "Historical existence, source recovery and current realization",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The physical-AI lineage is a historical corpus, not merely a collection of AI-generated representations."
+    },
+    {
+      "type": "figure",
+      "id": "physical-ai-corpus",
+      "dimension": "2d",
+      "src": "assets/figures/physical-ai-corpus.png",
+      "alt": "Physical AI Corpus",
+      "caption": "Physical AI Corpus — Historical existence, source recovery and current realization",
+      "explanation": "Source notes, experiments, implementations and observations must be distinguished from their later posters, diagrams and formal reconstructions.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-20",
+  "title": "Quantum Neuromorphic BCI",
+  "subtitle": "The bridge between CEMb and CEMs",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A quantum-neuromorphic BCI provides a convergence interface between bioform and synthetiform cognition."
+    },
+    {
+      "type": "figure",
+      "id": "quantum-neuromorphic-bci",
+      "dimension": "2d",
+      "src": "assets/figures/quantum-neuromorphic-bci.png",
+      "alt": "Quantum Neuromorphic BCI",
+      "caption": "Quantum Neuromorphic BCI — The bridge between CEMb and CEMs",
+      "explanation": "Neural cognition can be decoded into semantic and inclination structures while synthetiform cognition provides a reciprocal computational realization, yielding the proposed convergence S*.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

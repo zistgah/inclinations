@@ -1,0 +1,25 @@
+{
+  "id": "ch-25",
+  "title": "Biochemistry as a PEDLER Field",
+  "subtitle": "Chemistry becomes a biological configuration space",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Biochemistry is not simply chemistry plus biology; it is a PEDLER field over an expanded biological configuration space."
+    },
+    {
+      "type": "figure",
+      "id": "biochemistry-as-a-pedler-field",
+      "dimension": "2d",
+      "src": "assets/figures/biochemistry-as-a-pedler-field.png",
+      "alt": "Biochemistry as a PEDLER Field",
+      "caption": "Biochemistry as a PEDLER Field — Chemistry becomes a biological configuration space",
+      "explanation": "Chemical correlations provide the substrate while molecular, conformational, electrochemical and informational transitions create the richer field.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

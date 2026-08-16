@@ -1,0 +1,25 @@
+{
+  "id": "ch-10",
+  "title": "Physical AI Lineage",
+  "subtitle": "NI2A2 → ANGEL → TARA → later physical AI",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The physical realization lineage predates contemporary generative AI."
+    },
+    {
+      "type": "figure",
+      "id": "physical-ai-lineage",
+      "dimension": "2d",
+      "src": "assets/figures/physical-ai-lineage.png",
+      "alt": "Physical AI Lineage",
+      "caption": "Physical AI Lineage — NI2A2 → ANGEL → TARA → later physical AI",
+      "explanation": "The sequence connects early cognitive architectures and robotic embodiments to later physical-AI systems while preserving historical provenance.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

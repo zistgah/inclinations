@@ -1,0 +1,25 @@
+{
+  "id": "ch-41",
+  "title": "Complete CEM Research Portfolio",
+  "subtitle": "CEMs structural and CEMb behavioural systems",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "CEMs and CEMb form a unified portfolio covering structural and behavioural realization."
+    },
+    {
+      "type": "figure",
+      "id": "complete-cem-research-portfolio",
+      "dimension": "2d",
+      "src": "assets/figures/complete-cem-research-portfolio.png",
+      "alt": "Complete CEM Research Portfolio",
+      "caption": "Complete CEM Research Portfolio — CEMs structural and CEMb behavioural systems",
+      "explanation": "The common mathematical bridge is State → Constraint → Energy → Optimization → State Transition → Verified Transition, while the two branches specialize in semantic structure and adaptive behaviour.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

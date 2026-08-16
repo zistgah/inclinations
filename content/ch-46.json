@@ -1,0 +1,25 @@
+{
+  "id": "ch-46",
+  "title": "Inclinations: Synthesis",
+  "subtitle": "From local disposition to universal transition architecture",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The final synthesis connects inclination, observation, execution, learning and realization into a recurrent architecture."
+    },
+    {
+      "type": "figure",
+      "id": "inclinations-synthesis",
+      "dimension": "2d",
+      "src": "assets/figures/inclinations-synthesis.png",
+      "alt": "Inclinations: Synthesis",
+      "caption": "Inclinations: Synthesis — From local disposition to universal transition architecture",
+      "explanation": "A local directional primitive becomes a general language for configurations, fields, cognition and execution, closing the loop from observation through inclination and Walk to learning and a new configuration.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

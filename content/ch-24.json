@@ -1,0 +1,25 @@
+{
+  "id": "ch-24",
+  "title": "Biochemistry as a PEDLER Field",
+  "subtitle": "Coupled molecular, conformational, electrochemical and informational transitions",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Biochemistry expands the chemical configuration space without requiring a new primitive."
+    },
+    {
+      "type": "figure",
+      "id": "biochemistry-as-a-pedler-field2",
+      "dimension": "2d",
+      "src": "assets/figures/biochemistry-as-a-pedler-field2.png",
+      "alt": "Biochemistry as a PEDLER Field",
+      "caption": "Biochemistry as a PEDLER Field — Coupled molecular, conformational, electrochemical and informational transitions",
+      "explanation": "Molecular structure, conformation, binding, charge, solvent, membrane state and informational variables participate in a much richer PEDLER field.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

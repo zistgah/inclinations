@@ -1,0 +1,25 @@
+{
+  "id": "ch-29",
+  "title": "Signals and Systems",
+  "subtitle": "Classical mathematical correspondences to PEDLER",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Classical signals-and-systems theory provides a rich comparison domain for PEDLER."
+    },
+    {
+      "type": "figure",
+      "id": "signals-and-systems",
+      "dimension": "2d",
+      "src": "assets/figures/signals-and-systems.png",
+      "alt": "Signals and Systems",
+      "caption": "Signals and Systems — Classical mathematical correspondences to PEDLER",
+      "explanation": "Transforms, filters, control systems, stochastic processes and hidden-state models can all be examined as different mathematical descriptions of state, observation and transition.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

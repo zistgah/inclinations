@@ -1,0 +1,25 @@
+{
+  "id": "ch-08",
+  "title": "NI2A2",
+  "subtitle": "Embodied PEDLER and the physical-AI lineage",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PEDLER extends from abstract transition calculus into embodied intelligent systems."
+    },
+    {
+      "type": "figure",
+      "id": "ni2a2",
+      "dimension": "2d",
+      "src": "assets/figures/ni2a2.png",
+      "alt": "NI2A2",
+      "caption": "NI2A2 — Embodied PEDLER and the physical-AI lineage",
+      "explanation": "NI2A2 represents the early physical realization of event-driven adaptive cognition, establishing a lineage later continued through ANGEL, TARA and subsequent physical-AI systems.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

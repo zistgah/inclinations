@@ -1,0 +1,25 @@
+{
+  "id": "ch-39",
+  "title": "ILM",
+  "subtitle": "Integrative Linguistic Multiscript",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "ILM separates canonical linguistic representation from surface language and script."
+    },
+    {
+      "type": "figure",
+      "id": "ilm",
+      "dimension": "2d",
+      "src": "assets/figures/ilm.png",
+      "alt": "ILM",
+      "caption": "ILM — Integrative Linguistic Multiscript",
+      "explanation": "The architecture supports multilingual and multiscript computation while preserving canonical semantics and enabling language-independent processing.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

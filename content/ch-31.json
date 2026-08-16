@@ -1,0 +1,25 @@
+{
+  "id": "ch-31",
+  "title": "PEDLER Semantics",
+  "subtitle": "Configuration, meaning and executable transition",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Semantic objects can themselves participate in transition structures."
+    },
+    {
+      "type": "figure",
+      "id": "pedler-semantics",
+      "dimension": "2d",
+      "src": "assets/figures/pedler-semantics.png",
+      "alt": "PEDLER Semantics",
+      "caption": "PEDLER Semantics — Configuration, meaning and executable transition",
+      "explanation": "Meaning becomes a structured state rather than merely a label, allowing interpretation, refinement and execution to be expressed within a common transition calculus.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

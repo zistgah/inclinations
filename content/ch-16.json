@@ -1,0 +1,25 @@
+{
+  "id": "ch-16",
+  "title": "Complete CEMs Architecture",
+  "subtitle": "From PEDLER semantics to executable cognitive hardware",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "CEMs preserves PEDLER semantics while changing implementation substrate."
+    },
+    {
+      "type": "figure",
+      "id": "complete-cems-architecture",
+      "dimension": "2d",
+      "src": "assets/figures/complete-cems-architecture.png",
+      "alt": "Complete CEMs Architecture",
+      "caption": "Complete CEMs Architecture — From PEDLER semantics to executable cognitive hardware",
+      "explanation": "The architecture progresses through state representation, inclination generation, selection, memory and execution, with conventional acceleration providing an engineering bridge to neuromorphic and quantum realization.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-13",
+  "title": "Physical Laboratory",
+  "subtitle": "From equations to measurable realization",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The laboratory is the verification boundary between abstract architecture and physical realization."
+    },
+    {
+      "type": "figure",
+      "id": "physical-laboratory",
+      "dimension": "2d",
+      "src": "assets/figures/physical-laboratory.png",
+      "alt": "Physical Laboratory",
+      "caption": "Physical Laboratory — From equations to measurable realization",
+      "explanation": "PEDLER inclinations become equations, hardware architectures, RTL, FPGA or silicon implementations and finally measurable observations that feed theory refinement.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

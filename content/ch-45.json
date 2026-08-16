@@ -1,0 +1,25 @@
+{
+  "id": "ch-45",
+  "title": "Interpretive Working Basis Theory",
+  "subtitle": "The observer must not substitute their own representational basis",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Interpretation depends on the subject's own working basis."
+    },
+    {
+      "type": "figure",
+      "id": "interpretive-working-basis-theory",
+      "dimension": "2d",
+      "src": "assets/figures/interpretive-working-basis-theory.png",
+      "alt": "Interpretive Working Basis Theory",
+      "caption": "Interpretive Working Basis Theory — The observer must not substitute their own representational basis",
+      "explanation": "IWBT explains why flattening, canonicalization, proxy substitution, ontology substitution and frame switching can distort high-dimensional individuals or systems.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

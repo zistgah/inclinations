@@ -1,0 +1,25 @@
+{
+  "id": "ch-11",
+  "title": "NI2A2 Architecture",
+  "subtitle": "Natural interfaces, adaptive learning and embodied cognition",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "NI2A2 concretized the transition from abstract cognitive architecture to physical intelligent agents."
+    },
+    {
+      "type": "figure",
+      "id": "ni2a2-architecture",
+      "dimension": "2d",
+      "src": "assets/figures/ni2a2-architecture.png",
+      "alt": "NI2A2 Architecture",
+      "caption": "NI2A2 Architecture — Natural interfaces, adaptive learning and embodied cognition",
+      "explanation": "Natural interfacing, adaptive cognition, state observation, action and physical constraints form a unified embodied architecture.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

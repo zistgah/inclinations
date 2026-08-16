@@ -1,0 +1,25 @@
+{
+  "id": "ch-27",
+  "title": "Evolutionary Walk",
+  "subtitle": "Population transitions through changing biological fields",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Evolution is a population-scale Walk through changing configuration space."
+    },
+    {
+      "type": "figure",
+      "id": "evolutionary-walk",
+      "dimension": "2d",
+      "src": "assets/figures/evolutionary-walk.png",
+      "alt": "Evolutionary Walk",
+      "caption": "Evolutionary Walk — Population transitions through changing biological fields",
+      "explanation": "Variation alters accessible transitions while population dynamics redistribute occupancy across the field, producing adaptation and evolutionary trajectories.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

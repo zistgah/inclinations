@@ -1,0 +1,25 @@
+{
+  "id": "ch-32",
+  "title": "Inclination, Signals and Collapse",
+  "subtitle": "A unified transition-field interpretation",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The inclination between neighbouring states is proposed as the elementary directional quantity underlying richer field behaviour."
+    },
+    {
+      "type": "figure",
+      "id": "inclination-signals-and-collapse",
+      "dimension": "2d",
+      "src": "assets/figures/inclination-signals-and-collapse.png",
+      "alt": "Inclination, Signals and Collapse",
+      "caption": "Inclination, Signals and Collapse — A unified transition-field interpretation",
+      "explanation": "The framework connects local transition quanta, Walks, ensembles, observable signals and possible collapse phenomena.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-26",
+  "title": "Genetics as a PEDLER Field",
+  "subtitle": "Regulation, inheritance and biological configuration",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Genetic systems can be understood as structured configurations undergoing constrained transitions."
+    },
+    {
+      "type": "figure",
+      "id": "genetics-as-a-pedler-field",
+      "dimension": "2d",
+      "src": "assets/figures/genetics-as-a-pedler-field.png",
+      "alt": "Genetics as a PEDLER Field",
+      "caption": "Genetics as a PEDLER Field — Regulation, inheritance and biological configuration",
+      "explanation": "DNA states, regulatory configurations, expression and inheritance create multiscale transition structures within the biological field.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

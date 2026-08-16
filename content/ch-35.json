@@ -1,0 +1,25 @@
+{
+  "id": "ch-35",
+  "title": "Intent Middleware",
+  "subtitle": "Verified semantic refinement between intent and realization",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A common semantic layer allows distinct physical systems to realize the same intent."
+    },
+    {
+      "type": "figure",
+      "id": "intent-middleware",
+      "dimension": "2d",
+      "src": "assets/figures/intent-middleware.png",
+      "alt": "Intent Middleware",
+      "caption": "Intent Middleware — Verified semantic refinement between intent and realization",
+      "explanation": "Intent is represented, refined and verified before being lowered into substrate-specific realization pathways and connected back through observation.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

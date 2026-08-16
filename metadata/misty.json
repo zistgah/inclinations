@@ -1,0 +1,56 @@
+{
+  "upload_type": "publication",
+  "publication_type": "book",
+  "title": "Inclinations! — A road to the Singularity",
+  "creators": [
+    {
+      "name": "Choudhary, Abhishek"
+    }
+  ],
+  "description": "<p><em>Inclinations! — A road to the Singularity</em> presents PEDLER as a foundational transition calculus in which configurations and states are connected by transitions, an inclination is the directional primitive associated with a transition, an inclination field is the resulting structure of inclinations over transitions, and a Walk is the realised trajectory through configuration space. The work extends these primitives through competition of inclinations, lateral inhibition, state spawning, PEDLER semantics, signals and systems, and proposed correlations with wave–particle duality, collapse, and configuration geometry as a possible route toward spacetime geometry and gravity. It further applies the transition-field framework to chemistry, biochemistry, genetics and evolution.</p><p>The book describes physical and computational realizations through NI2A2 and the physical-AI lineage, CEMs as synthetiform realization, CEMb as bioform realization and neural decoding, LVF and ILM as linguistic architectures, and Eco-CEM as an ecological realization path. CEMs includes conventional AI acceleration and proposed neuromorphic and quantum-neuromorphic realization; CEMb includes neural observation, decoding and semantic cognitive-state recovery. Quantum Neuromorphic BCI is described as a proposed bidirectional bridge between CEMb and CEMs, with shared semantic structure, Intent, refinement and verified equivalence providing the convergence architecture.</p><p>The work also presents the historical physical-AI corpus, physical laboratory realization, the CEM family and its symmetry, Intent middleware, the Unified Ecosystem Architecture, and Interpretive Working Basis Theory. The proposed Singularity is treated as convergence of bioform and synthetiform cognition rather than as an established physical event. Cross-domain statements identified as hypotheses or correlations retain that status; the work does not silently promote proposed correspondences in neuroscience, quantum physics, gravity, biology or computation to established findings.</p>",
+  "keywords": [
+    "inclination",
+    "PEDLER",
+    "Walk",
+    "inclination field",
+    "state spawning",
+    "physical AI",
+    "NI2A2",
+    "CEMs",
+    "CEMb",
+    "Quantum Neuromorphic BCI",
+    "LVF",
+    "ILM",
+    "semantics",
+    "chemistry",
+    "biochemistry",
+    "genetics",
+    "evolution",
+    "wave-particle duality",
+    "gravity",
+    "Eco-CEM",
+    "Singularity"
+  ],
+  "license": "cc-by-sa-4.0",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.17497559",
+      "relation": "isDerivedFrom",
+      "scheme": "doi",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "10.5281/zenodo.21397274",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "10.5281/zenodo.21917807",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "publication-book"
+    }
+  ]
+}
